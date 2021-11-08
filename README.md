@@ -1,2 +1,3 @@
 # note.as
-Anderson Sharp! To install Anderson Sharp you actually gotta import it by NPM!
+
+note.as = note.a#. a# = a programming language based on Ordinary development.
